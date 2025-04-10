@@ -1,0 +1,10 @@
+HF available models
+1. SmolDocling
+	- https://arxiv.org/pdf/2503.11576
+	- https://huggingface.co/ds4sd/SmolDocling-256M-preview
+
+2. SmolVLM
+	- Very small, fast. Can be fine-tuned
+	- https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct
+	- https://github.com/huggingface/smollm/blob/main/vision/finetuning/Smol_VLM_FT.ipynb
+
