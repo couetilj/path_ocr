@@ -7,7 +7,7 @@ This repository is designed to assist with Optical Character Recognition (OCR) t
 ### Prerequisites
 Run the setup script to install the required dependencies:
 
-** you ned virtualenv installed **
+**you need virtualenv installed**
 
 ```bash
 ./setup.sh
